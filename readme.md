@@ -17,7 +17,7 @@
 [<img align="left" alt="dogukan901.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="dogukan901 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="dogukan901 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="dogukan901 | LinkedIn" width="22px" src=https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github/>](https://github.com/dogukan901)[GitHub]
+[<img align="left" alt="dogukan901 | Github" width="22px" src=https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github/>](https://github.com/dogukan901)[GitHub]
 [<img align="left" alt="dogukan901 | Gitlab" width="22px" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" />][gitlab]
 
 <br />
@@ -55,7 +55,7 @@
 ### 📺 Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dogukan901&theme=calm)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogukan901&exclude_repo=HTTU&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogukan901&exclude_repo=HTTU&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogukan901&theme=dark&layout=compact" /></p>
 
@@ -71,6 +71,7 @@
 </details>
 
 [website]: https://dogukan901.github.io/deploy-react-DoguPortfolio/#/
+[Github]: https://github.com/dogukan901
 <!-- [course]: http://vsCodeHero.com -->
 [twitter]: https://twitter.com/Render4Me
 [gitlab]: https://gitlab.com/dogukan901
