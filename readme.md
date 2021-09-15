@@ -17,7 +17,7 @@
 [<img align="left" alt="dogukan901.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="dogukan901 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="dogukan901 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="dogukan901 | Github" width="22px" src=https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github/>](https://github.com/dogukan901)[GitHub]
+[<img align="left" alt="dogukan901 | Github" width="22px" src=https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github/>](https://github.com/dogukan901)[github]
 [<img align="left" alt="dogukan901 | Gitlab" width="22px" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" />][gitlab]
 
 <br />
@@ -71,7 +71,7 @@
 </details>
 
 [website]: https://dogukan901.github.io/deploy-react-DoguPortfolio/#/
-[Github]: https://github.com/dogukan901
+[github]: https://github.com/dogukan901
 <!-- [course]: http://vsCodeHero.com -->
 [twitter]: https://twitter.com/Render4Me
 [gitlab]: https://gitlab.com/dogukan901
