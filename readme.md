@@ -1,6 +1,8 @@
 ### Hi there, I'm Doğukan - A.k.a. [Render4me][website] 
 <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif?cid=ecf05e47jt15c7111ouvmihucwxoiuzbj8new7z2vxn6w7ci&rid=giphy.gif&ct=g" width="125px">
 
+ <img src="https://i.gifer.com/Yp1I.gif" width="100">
+
 [![Website](https://img.shields.io/badge/dogukan901-My%20Website-lightgrey)](https://dogukan901.github.io/deploy-react-DoguPortfolio/#/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Render4Me?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRender4Me&screen_name=Render4Me)
 
@@ -29,7 +31,7 @@
   
 
   <p align="center">
-  
+
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
   <img src=https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif width="105">
   <img src=https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif width="105">
@@ -40,6 +42,7 @@
    <br><br>
   <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" />
   <br><br>
+
 </p>
 
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
