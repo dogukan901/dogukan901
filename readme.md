@@ -3,7 +3,7 @@
 <div>
 <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif?cid=ecf05e47jt15c7111ouvmihucwxoiuzbj8new7z2vxn6w7ci&rid=giphy.gif&ct=g" width="125px">
 
- <img src="https://media.giphy.com/media/LMhbwQ27DaXCTbX1zo/giphy.gif?cid=ecf05e472hp2chxcc29fpcfgltznj19ts27nel62b5w2zrgo&rid=giphy.gif&ct=g" width="100">
+ <img src="https://media.giphy.com/media/LMhbwQ27DaXCTbX1zo/giphy.gif?cid=ecf05e472hp2chxcc29fpcfgltznj19ts27nel62b5w2zrgo&rid=giphy.gif&ct=g" width="125px">
 </div>
 
 [![Website](https://img.shields.io/badge/dogukan901-My%20Website-lightgrey)](https://dogukan901.github.io/deploy-react-DoguPortfolio/#/)
