@@ -97,13 +97,17 @@
 
 ---
 
-### 📺 Stats
+### ⚙️ &nbsp; Stats
+<p align="center">
+<a href="https://github.com/dogukan901">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dogukan901&theme=calm)](https://git.io/streak-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogukan901&exclude_repo=HTTU&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogukan901&theme=dark&layout=compact" /></p>
 
+</a>
+</p>
 
 [![dogukan901's github activity graph](https://activity-graph.herokuapp.com/graph?username=dogukan901&theme=github-dark)](https://github.com/dogukan901)
 
