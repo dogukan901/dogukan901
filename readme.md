@@ -109,7 +109,20 @@
 </a>
 </p>
 
-[![dogukan901's github activity graph](https://activity-graph.herokuapp.com/graph?username=dogukan901&theme=github-dark)](https://github.com/dogukan901)
+<table>
+  <td align="center">
+    <img src="https://github.com/dogukan901/dogukan901/blob/master/metrics.plugin.isocalendar.svg">
+    <details><summary>Full year version</summary>
+      <img src="https://github.com/dogukan901/dogukan901/blob/master/metrics.plugin.isocalendar.fullyear.svg">
+    </details>
+    <img width="900" height="1" alt="">
+    
+  </td>
+</table>
+
+
+<!-- [![dogukan901's github activity graph](https://activity-graph.herokuapp.com/graph?username=dogukan901&theme=github-dark)](https://github.com/dogukan901) -->
+
 
 
 [website]: https://dogukan901.github.io/deploy-react-DoguPortfolio/#/
