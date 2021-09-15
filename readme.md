@@ -1,5 +1,5 @@
 ### Hi there, I'm Doğukan - A.k.a. [Render4me][website] 
-<img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif?cid=ecf05e47jt15c7111ouvmihucwxoiuzbj8new7z2vxn6w7ci&rid=giphy.gif&ct=g" width="25px">
+<img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif?cid=ecf05e47jt15c7111ouvmihucwxoiuzbj8new7z2vxn6w7ci&rid=giphy.gif&ct=g" width="125px">
 
 [![Website](https://img.shields.io/badge/dogukan901-My%20Website-lightgrey)](https://dogukan901.github.io/deploy-react-DoguPortfolio/#/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Render4Me?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRender4Me&screen_name=Render4Me)
