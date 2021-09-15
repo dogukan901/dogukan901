@@ -6,11 +6,11 @@
 
 ## I'm a Senior Student, Full Stack Developer, and a Lifetime Learner.
 
-# - 🔭 I am preparing myself for my own future Startups
-# - 🧑‍💻 I’m currently working @Siemens as a software engineer besides on personal and projects 🤣
-# - 👯 I’m looking to collaborate with other developers
-# - 🥅 2021 Goals: Contribute more to Open Source projects
-# - 💬 Ask me about anything, I am happy to help;
+###### - 🔭 I am preparing myself for my own future Startups
+###### - 🧑‍💻 I’m currently working @Siemens as a software engineer besides on personal and projects 🤣
+###### - 👯 I’m looking to collaborate with other developers
+###### - 🥅 2021 Goals: Contribute more to Open Source projects
+###### - 💬 Ask me about anything, I am happy to help;
 
 ### Connect with me:
 
