@@ -1,4 +1,5 @@
 ### Hi there, I'm Doğukan - A.k.a. [Render4me][website] 
+### But it's not who I am underneath, It's what I do that defines me.🦇
 
 <div>
 <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif?cid=ecf05e47jt15c7111ouvmihucwxoiuzbj8new7z2vxn6w7ci&rid=giphy.gif&ct=g" width="125px">
