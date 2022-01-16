@@ -33,6 +33,7 @@
 [<img align="left" alt="dogukan901 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="dogukan901 | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="dogukan901 | Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
+[<img align="left" alt="dogukan901 | Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jetbrains.svg" />]
 
 <br />
 
