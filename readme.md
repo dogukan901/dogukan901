@@ -6,17 +6,23 @@
 
 </div>
 
-[![Website](https://img.shields.io/badge/dogukan901-My%20Website-lightgrey)](https://dogukan901.github.io/deploy-react-DoguPortfolio/#/)
+[![Website](https://img.shields.io/badge/dogukan901-My%20Website-lightgrey)](https://dogukan901.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Render4Me?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRender4Me&screen_name=Render4Me)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Dogukan&color=181717)](https://www.linkedin.com/in/doğukan-okçu-a76bb0110/)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=dogukan901.dogukan901&right_color=#575757)
+[![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat&logo=gitlab)](https://gitlab.com/dogukan901)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/dogukan901)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-181717?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/doki9706?hr_r=1)
+[![render4me StackOverflow](https://stackoverflow-badge.vercel.app/?userID=13969786)](https://stackoverflow.com/users/14962648/render4me)
 
 ## I'm a Senior Student, Full Stack Developer, and a Lifetime Learner.
 
  <img src="https://media.giphy.com/media/LMhbwQ27DaXCTbX1zo/giphy.gif?cid=ecf05e472hp2chxcc29fpcfgltznj19ts27nel62b5w2zrgo&rid=giphy.gif&ct=g" width="250px">
  
 ###### - 🔭 I am preparing myself for my own future Startups
-###### - 🧑‍💻 I’m currently working @Siemens as a software engineer besides on personal and projects
+###### - 🧑‍💻 I’m currently working @Siemens as a software engineer besides on my personal projects
 ###### - 👯 I’m looking to collaborate with other developers
-###### - 🥅 2021 Goals: Contribute more to Open Source projects
+###### - 🥅 2022 Goals: Contribute more to Open Source projects
 ###### 💼 Need any freelance work to be done? [email](mailto:dogukan901@gmail.com)
 ###### - 💬 Ask me about anything, I am happy to help;
 
@@ -30,32 +36,32 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools I work with:
 
 <div align = "center">
   
 
   <p align="center">
 
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-  <img src=https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif width="105">
-  <img src=https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif width="105">
-   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="70">
+  <img src=https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif width="75">
+  <img src=https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif width="75">
+   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="70">
+   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="70">
+   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="70">
+   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70">
    <br><br>
   <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" />
   <br><br>
 
 </p>
 
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 </div>
 
@@ -65,10 +71,10 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
+<!-- [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist] -->
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
+<!-- [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist] -->
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
@@ -78,7 +84,7 @@
 
 <br />
 
-### ⚡ Technologies:
+### ⚡ More Of Technologies:
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></code>
@@ -104,6 +110,8 @@
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+###### Cloud Platforms and Technologies I'm currently using:
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
@@ -130,7 +138,7 @@
 </a>
 </p>
 
-<table>
+<!-- <table>
   <td align="center">
     <img src="https://github.com/dogukan901/dogukan901/blob/master/metrics.plugin.isocalendar.svg">
     <details><summary>Full year version</summary>
@@ -140,13 +148,13 @@
     
   </td>
 </table>
-
+ -->
 
 <!-- [![dogukan901's github activity graph](https://activity-graph.herokuapp.com/graph?username=dogukan901&theme=github-dark)](https://github.com/dogukan901) -->
 
 
 
-[website]: https://dogukan901.github.io/deploy-react-DoguPortfolio/#/
+[website]: https://dogukan901.github.io/
 [github]: https://github.com/dogukan901
 <!-- [course]: http://vsCodeHero.com -->
 [twitter]: https://twitter.com/Render4Me
