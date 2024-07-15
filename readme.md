@@ -7,7 +7,6 @@
 </div>
 
 [![Website](https://img.shields.io/badge/dogukan901-My%20Website-lightgrey)](https://dogukan901.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Render4Me?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRender4Me&screen_name=Render4Me)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Dogukan&color=181717)](https://www.linkedin.com/in/doğukan-okçu-a76bb0110/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dogukan901.dogukan901&right_color=#575757)
 [![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat&logo=gitlab)](https://gitlab.com/dogukan901)
@@ -16,14 +15,11 @@
 [![render4me StackOverflow](https://stackoverflow-badge.vercel.app/?userID=14962648)](https://stackoverflow.com/users/14962648/render4me)
 
 ## I'm a Senior Student, Full Stack Developer, and a Lifetime Learner.
-
- <img src="https://media.giphy.com/media/LMhbwQ27DaXCTbX1zo/giphy.gif?cid=ecf05e472hp2chxcc29fpcfgltznj19ts27nel62b5w2zrgo&rid=giphy.gif&ct=g" width="250px">
  
 ###### - 🔭 I am preparing myself for my own future Startups
-###### - 🧑‍💻 I’m currently working @Siemens as a software engineer besides on my personal projects
+###### - 🧑‍💻 I’m currently working as a software engineer besides on my personal projects
 ###### - 👯 I’m looking to collaborate with other developers
-###### - 🥅 2022 Goals: Contribute more to Open Source projects
-###### 💼 Need any freelance work to be done? [email](mailto:dogukan901@gmail.com)
+###### - 🥅 2024 Goals: Contribute more to Open Source projects
 ###### - 💬 Ask me about anything, I am happy to help;
 
 ### Connect with me:
