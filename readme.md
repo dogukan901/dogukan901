@@ -14,7 +14,7 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-181717?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/doki9706?hr_r=1)
 [![render4me StackOverflow](https://stackoverflow-badge.vercel.app/?userID=14962648)](https://stackoverflow.com/users/14962648/render4me)
 
-## I'm a Senior Student, Full Stack Developer, and a Lifetime Learner.
+## I'm a Full Stack Developer, and a Lifetime Learner.
  
 ###### - 🔭 I am preparing myself for my own future Startups
 ###### - 🧑‍💻 I’m currently working as a software engineer besides on my personal projects
